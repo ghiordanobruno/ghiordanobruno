@@ -7,7 +7,7 @@
 ## Install
 
 ```sh
-npm install
+::blank::
 ```
 
 ## Author
