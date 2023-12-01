@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">Welcome to ghiordanobruno 👋</h1>
+<p>
+</p>
 
-<!--
-**ghiordanobruno/ghiordanobruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> README
 
-Here are some ideas to get you started:
+## Install
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```sh
+npm install
+```
+
+## Author
+
+👤 **Ghiordano Bruno**
+
+* LinkedIn: [@ghiordano](https://linkedin.com/in/ghiordano)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
