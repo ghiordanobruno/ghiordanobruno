@@ -1,6 +1,9 @@
 <p align='center'>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9400d3&height=120&section=header" />
 </p>
+
+![](https://komarev.com/ghpvc/?username=ghiordanobruno)
+
 <hr />
 <h1 align='center'>
 
