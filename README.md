@@ -73,7 +73,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghiordanobruno&theme=radical&show_icons=true" width="350" />
   </a>&nbsp;&nbsp;
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=ghiordanobruno&show_icons=true&count_private=true&theme=radical" width="350" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ghiordanobruno&show_icons=true&count_private=true&theme=radical&rank_icon=github" width="350" />
   </a>&nbsp;&nbsp;
 </p>
 
