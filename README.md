@@ -7,7 +7,7 @@
 <hr />
 <h1 align='center'>
 
->![Typing SVG](https://readme-typing-svg.herokuapp.com?font=EB+Garamond&weight=666&&duration=3000&pause=1000&center=true&vCenter=true&repeat=false&random=false&multiline=true&width=435&height=100&lines=👋+HELLO+THERE!!;👨‍💻+My+name+is+Ghiordano+Bruno;🎲+An+aspiring+Data+Scientist+from+Brazil)
+>![Typing SVG](https://readme-typing-svg.herokuapp.com?font=EB+Garamond&weight=666&&duration=3000&pause=1000&center=true&vCenter=true&repeat=false&random=false&multiline=true&width=435&height=100&lines=👋+HELLO+THERE!!;👨‍💻+My+name+is+Ghiordano+Bruno)
 
   <img width="120" alt="HIRE ME!!!" src="https://img.shields.io/badge/Open-To_Work-white?style=for-the-badge&labelColor=00DA00&color=009000" />
 </h1>
