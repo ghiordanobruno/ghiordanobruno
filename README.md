@@ -94,13 +94,3 @@ Tenho direcionado minha formação para Engenharia e Ciência de Dados, com inte
 -->
 
 <hr />
-
-<!--
--->
-
-<p align='center'>
-  <img align=center src="https://capsule-render.vercel.app/api?type=waving&color=9400d3&height=120&section=footer" />
-</p>
-
-<!--
--->
