@@ -1,81 +1,94 @@
-<p align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9400d3&height=120&section=header" />
-</p>
+<h1 align="center">Ghiordano Bruno <img width="120" alt="HIRE ME!!!" src="https://img.shields.io/badge/Open-To_Work-white?style=for-the-badge&labelColor=00DA00&color=009000" /></h1>
 
-![](https://komarev.com/ghpvc/?username=ghiordanobruno&color=blueviolet&style=for-the-badge&base=1120)
+<h3 align="center"><i>Data Scientist | Data Analyst</i></h3>
 
-<hr />
-<h1 align='center'>
+<div align="center">
 
->![Typing SVG](https://readme-typing-svg.herokuapp.com?font=EB+Garamond&weight=666&&duration=3000&pause=1000&center=true&vCenter=true&repeat=false&random=false&multiline=true&width=435&height=100&lines=👋+HELLO+THERE!!;👨‍💻+My+name+is+Ghiordano+Bruno)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghiordano/)&nbsp;&nbsp;
 
-  <img width="120" alt="HIRE ME!!!" src="https://img.shields.io/badge/Open-To_Work-white?style=for-the-badge&labelColor=00DA00&color=009000" />
-</h1>
-
-
-  
-
-<p align=center> 
-  <a href="https://www.linkedin.com/in/ghiordano/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/ghiordano.bruno/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
-  </a>&nbsp;&nbsp;
-</p>
-<div align=center>
-  <p>
-
-    
-**Ghiordano Bruno**  
-
-    
-  </p>
-  
-  <p align="left">Skills:<br />
-    <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
-    <a href="https://www.microsoft.com/excel/"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /></a>
-    <a href="https://www.libreoffice.org/"><img alt="LibreOffice" src="https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white" /></a>
-    <a href="https://learn.microsoft.com/dotnet/csharp/"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>
-    
-  </p>
-
-  <p align="left">Learning:<br />
-    <a href="https://www.r-project.org/"><img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" /></a>
-    <a href="https://numpy.org/doc/stable/"><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /></a>
-    <a href="https://pandas.pydata.org/pandas-docs/stable/"><img alt="pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /></a>
-    <a href="https://pytorch.org/docs/stable/index.html"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" /></a>
-    <a href="https://github.com/tensorflow/tensorflow"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /></a>
-    <a href="https://powerbi.microsoft.com/"><img alt="Power BI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></a>
-  </p>
 </div>
 
-<!--
-  <img width=48 height=auto alt="Python" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
-  <img width=48 height=auto alt="C#" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />
-  <img width=48 height=auto alt="R" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg" />
-  <img width=48 height=auto src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" />
-  <img width=48 height=auto src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
--->
+---- 
+<!--START_SECTION:table-->
 
-<p align="center">
-  💻 My workspace:<br/><br/>
-  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/AMD_Ryzen-5_1600-bd0505?&style=for-the-badge&logo=amd&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-gtx%201050ti-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" /><br />
-  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
-  <a href="https://notepad-plus-plus.org/"><img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black" /></a>
-</p>
+## Sobre mim
+Sou formado em Análise e Desenvolvimento de Sistemas e atualmente curso pós-graduação em Ciência de Dados e Big Data, com foco na aplicação estratégica de dados para suporte à decisão.
 
-<p align='center'>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghiordanobruno&theme=radical&show_icons=true" width="350" />
-  </a>&nbsp;&nbsp;
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=ghiordanobruno&show_icons=true&count_private=true&theme=radical&rank_icon=github" width="350" />
-  </a>&nbsp;&nbsp;
-</p>
+Minha atuação é direcionada à transformação de dados brutos em informações estruturadas e confiáveis, apoiando análises, geração de insights e construção de métricas relevantes para o negócio. Desenvolvo projetos utilizando Python e SQL para manipulação, tratamento e exploração de dados, aplicando boas práticas de organização, versionamento e clareza analítica.
+
+Tenho direcionado minha formação para Engenharia e Ciência de Dados, com interesse em aprendizado de máquina e modelagem preditiva orientada a impacto prático. Busco oportunidades para contribuir com análises consistentes, melhoria de processos baseados em dados e apoio à tomada de decisão estratégica.
+
+## Habilidades e Ferramentas
+        Ciência de dados
+        Análise de dados
+        Mineração de dados
+        Visualização de dados
+        Estatística
+        Aprendizado de máquina
+        Microsoft Windows
+        Python
+        R
+        C#
+        SQL
+        GitHub
+        Power BI
+        Microsoft Excel
+        Google Sheets
+        LibreOffice Calc
+        Jupyter Notebook
+        Visual Studio Code
+        Visual Studio
+        Web scraping
+        
+
+## Educação
+* **2021 - 2024**
+    * Curso Superior - Tecnologia em Análise e Desenvolvimento de Sistemas
+    * Centro Universitário Newton Paiva - Minas Gerais, Brasil 
+
+## Educação complementar
+<details>
+<summary>Lista de cursos</summary>
+
+| Curso | Instituição | Duração |
+| :---: | :---: | :---: |
+| Python Básico | Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais (IFMG) | 40 Hr |
+| Python Avançado | Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais (IFMG) | 40 Hr |
+| Big Data Básico | Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais (IFMG) | 40 Hr |
+| Introduction to Cybersecurity | Cisco Networking Academy | 6 Hr |
+| Introdução à Ciência de Dados com Python | Digital Innovation One (DIO) | 16 Hr |
+| Princípios de Desenvolvimento de Software Colaborativo | Digital Innovation One (DIO) | 7 Hr |
+| Introdução ao Ambiente Python e Projetos Colaborativos | Digital Innovation One (DIO) | 10 Hr |
+| Sintaxe Básica com Python | Digital Innovation One (DIO) | 8 Hr |
+| Trabalhando com Coleções em Python | Digital Innovation One (DIO) | 8 Hr |
+| Primeiros Passos em SQL e NoSQL | Digital Innovation One (DIO) | 6 Hr |
+| Introdução a Banco de Dados Relacionais (SQL) | Digital Innovation One (DIO) | 3 Hr |
+| Introdução a Banco de Dados NoSQL | Digital Innovation One (DIO) | 3 Hr |
+| Introdução a Análise de Dados com SQL | Digital Innovation One (DIO) | 3 Hr |
+| Versionamento de Código com Git e GitHub | Digital Innovation One (DIO) | 2 Hr |
+| Bootcamp NTT DATA - Engenharia de Dados com Python | Digital Innovation One (DIO) | 2 Hr |
+| Primeiros Passos com Power BI | Digital Innovation One (DIO) | 3 Hr |
+| Green Software Development | Digital Innovation One (DIO) | 2 Hr |
+
+</details>
+
+## Projetos de portfólio 
+* ### [ETL com pandas e Matplotlib](https://github.com/ghiordanobruno/survey_ETL) (Python, ETL, pandas, Matplotlib)
+    É um projeto em Python que implementa um pipeline de ETL (Extração, Transformação e Carga) aplicado à análise da pesquisa anual de desenvolvedores do Stack Overflow (2018-2024). O objetivo principal é coletar, limpar e organizar um grande conjunto de respostas (mais de 560.000 registros), padronizando os dados para torná-los consistentes e prontos para análise exploratória.
+    O pipeline utiliza Pandas para manipulação e tratamento dos dados e Matplotlib para visualização de tendências, como o uso de linguagens de programação e preferências ao longo dos anos. O projeto inclui gráficos que representam padrões relevantes extraídos do conjunto de dados, demonstrando como diferentes aspectos evoluíram ao longo do tempo. A estrutura e documentação permitem replicar o fluxo de tratamento de dados em notebooks (por exemplo, em Google Colab), e exemplificar boas práticas de ETL e análise com Python.
+
+## Working Setup
+
+        Desktop
+        Motherboard: PRIME A320M-K/BR
+        CPU: Tyzen 5 1600
+        RAM: 16GB (2x8GB) 2666Mhz
+        Graphics: NVIDIA GeForce GTX 1050 Ti
+        Monitor: Generic 59-60Hz
+        Keyboard: Teclado Mecanico Pichau Netuno V2
+        Mouse: Mouse Pichau Netuno V2
+        Headset: Headset Pichau Netuno V2
+</div>
 
 <!--
 -->
