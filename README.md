@@ -74,8 +74,9 @@ Tenho direcionado minha formação para Engenharia e Ciência de Dados, com inte
 
 ## Projetos de portfólio 
 * ### [ETL com pandas e Matplotlib](https://github.com/ghiordanobruno/survey_ETL) (Python, ETL, pandas, Matplotlib)
-    É um projeto em Python que implementa um pipeline de ETL (Extração, Transformação e Carga) aplicado à análise da pesquisa anual de desenvolvedores do Stack Overflow (2018-2024). O objetivo principal é coletar, limpar e organizar um grande conjunto de respostas (mais de 560.000 registros), padronizando os dados para torná-los consistentes e prontos para análise exploratória.
-    O pipeline utiliza Pandas para manipulação e tratamento dos dados e Matplotlib para visualização de tendências, como o uso de linguagens de programação e preferências ao longo dos anos. O projeto inclui gráficos que representam padrões relevantes extraídos do conjunto de dados, demonstrando como diferentes aspectos evoluíram ao longo do tempo. A estrutura e documentação permitem replicar o fluxo de tratamento de dados em notebooks (por exemplo, em Google Colab), e exemplificar boas práticas de ETL e análise com Python.
+    > É um projeto em Python que implementa um pipeline de ETL (Extração, Transformação e Carga) aplicado à análise da pesquisa anual de desenvolvedores do Stack Overflow (2018-2024). O objetivo principal é coletar, limpar e organizar um grande conjunto de respostas (mais de 560.000 registros), padronizando os dados para torná-los consistentes e prontos para análise exploratória.
+    >
+    > O pipeline utiliza Pandas para manipulação e tratamento dos dados e Matplotlib para visualização de tendências, como o uso de linguagens de programação e preferências ao longo dos anos. O projeto inclui gráficos que representam padrões relevantes extraídos do conjunto de dados, demonstrando como diferentes aspectos evoluíram ao longo do tempo. A estrutura e documentação permitem replicar o fluxo de tratamento de dados em notebooks (por exemplo, em Google Colab), e exemplificar boas práticas de ETL e análise com Python.
 
 ## Working Setup
 
