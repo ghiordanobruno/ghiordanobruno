@@ -165,6 +165,24 @@ O objetivo é analisar vendas, atrasos de entrega, satisfação dos clientes e c
 
 </details>
 
+
+## Em desenvolvimento
+
+Atualmente estou trabalhando para fortalecer meu portfólio com projetos voltados a:
+
+- Análise de dados com Python e SQL.
+- Pipelines de ETL.
+- Dashboards e indicadores.
+- Automação de processos com dados.
+- Documentação técnica de projetos.
+
+
+## Contato
+
+- LinkedIn: [linkedin.com/in/ghiordano](https://www.linkedin.com/in/ghiordano/)
+- GitHub: [github.com/ghiordanobruno](https://github.com/ghiordanobruno)
+
+
 </div>
 
 <!--
