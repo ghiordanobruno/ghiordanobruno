@@ -1,6 +1,6 @@
 <h1 align="center">Ghiordano Bruno <img width="120" alt="HIRE ME!!!" src="https://img.shields.io/badge/Open-To_Work-white?style=for-the-badge&labelColor=00DA00&color=009000" /></h1>
 
-<h3 align="center"><i>Data Scientist | Data Analyst</i></h3>
+<h3 align="center"><i>Dados | BI | Analytics | Python | SQL | Data Scientist | Data Analyst</i></h3>
 
 <div align="center">
 
