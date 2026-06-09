@@ -12,39 +12,132 @@
 <!--START_SECTION:table-->
 
 ## Sobre mim
-Sou formado em Análise e Desenvolvimento de Sistemas e atualmente curso pós-graduação em Ciência de Dados e Big Data, com foco na aplicação estratégica de dados para suporte à decisão.
+Sou formado em Análise e Desenvolvimento de Sistemas e atualmente curso pós-graduação em Ciência de Dados e Big Data.
 
-Minha atuação é direcionada à transformação de dados brutos em informações estruturadas e confiáveis, apoiando análises, geração de insights e construção de métricas relevantes para o negócio. Desenvolvo projetos utilizando Python e SQL para manipulação, tratamento e exploração de dados, aplicando boas práticas de organização, versionamento e clareza analítica.
+Busco minha primeira oportunidade profissional na área de Dados, BI ou Analytics, com interesse em atuar como Analista de Dados Júnior, Analista de BI Júnior, Estagiário em Dados, Assistente de Dados, Analista de Relatórios ou posições próximas.
 
-Tenho direcionado minha formação para Engenharia e Ciência de Dados, com interesse em aprendizado de máquina e modelagem preditiva orientada a impacto prático. Busco oportunidades para contribuir com análises consistentes, melhoria de processos baseados em dados e apoio à tomada de decisão estratégica.
+Tenho desenvolvido projetos com foco em tratamento, organização e análise de dados usando Python, SQL, Pandas, Matplotlib, Excel e Git/GitHub. Meu objetivo é transformar dados brutos em informações estruturadas, apoiar análises exploratórias, construir indicadores e contribuir para decisões baseadas em dados.
 
-## Habilidades e Ferramentas
-        Ciência de dados
-        Análise de dados
-        Mineração de dados
-        Visualização de dados
-        Estatística
-        Aprendizado de máquina
-        Microsoft Windows
-        Python
-        R
-        C#
-        SQL
-        GitHub
-        Power BI
-        Microsoft Excel
-        Google Sheets
-        LibreOffice Calc
-        Jupyter Notebook
-        Visual Studio Code
-        Visual Studio
-        Web scraping
-        
+Atualmente estou aprofundando meus conhecimentos em Engenharia de Dados, Business Intelligence, análise exploratória, qualidade de dados e fundamentos de Ciência de Dados.
+
+## Principais competências
+
+**Linguagens e ferramentas**
+
+- Python
+- SQL
+- Pandas
+- Matplotlib
+- Excel
+- Power BI básico
+- Git e GitHub
+- Jupyter Notebook
+- Visual Studio Code
+- MongoDB e NoSQL
+
+**Dados e BI**
+
+- ETL
+- Limpeza e tratamento de dados
+- Análise exploratória de dados
+- Indicadores e métricas
+- Dashboards e relatórios
+- Visualização de dados
+- Qualidade e organização de dados
+- Documentação técnica
+
+**Conceitos em desenvolvimento**
+
+- Ciência de Dados
+- Engenharia de Dados
+- Business Intelligence
+- Big Data
+- Aprendizado de máquina
+- Modelagem preditiva
+
+## Projetos de portfólio 
+
+### [AdOps Revenue Monitor](https://github.com/ghiordanobruno/adops-revenue-monitor)
+
+Pipeline em Python para simular o monitoramento diário de receita publicitária digital.
+
+O projeto gera dados sintéticos de AdOps, aplica validações de qualidade, calcula métricas de monetização, identifica anomalias operacionais e exporta um dashboard em Excel para análise. A proposta é reproduzir uma rotina de acompanhamento de indicadores, investigação de inconsistências e apoio à tomada de decisão em um contexto de monetização digital.
+
+**Principais pontos do projeto**
+
+- Geração de dados sintéticos para simular uma operação de AdOps.
+- Limpeza, padronização e validação de dados.
+- Cálculo de métricas como match rate, fill rate, CTR, RPM e eCPM.
+- Detecção de anomalias com regras de negócio.
+- Exportação de dashboard em Excel.
+- Pipeline modular com etapas independentes.
+
+**Tecnologias utilizadas**
+
+- Python
+- Pandas
+- OpenPyXL
+- Excel
+- Git/GitHub
+
+---
+
+### [ETL com Pandas e Matplotlib](https://github.com/ghiordanobruno/survey_ETL)
+
+Projeto em Python aplicado à análise da pesquisa anual de desenvolvedores do Stack Overflow entre 2018 e 2024.
+
+O projeto implementa um pipeline de ETL para extração, tratamento, padronização e análise de dados com mais de 560 mil respostas. O objetivo é transformar arquivos brutos em dados organizados e comparáveis ao longo dos anos, permitindo análises sobre linguagens utilizadas, tecnologias desejadas e tendências no ecossistema de desenvolvimento.
+
+**Principais pontos do projeto**
+
+- Extração e organização de arquivos CSV.
+- Padronização de colunas entre diferentes anos da pesquisa.
+- Tratamento de valores nulos e respostas inconsistentes.
+- Análise exploratória com Pandas.
+- Visualizações com Matplotlib.
+- Comparação de tendências entre anos.
+- Estruturação do projeto para execução em notebook.
+
+**Tecnologias utilizadas**
+
+- Python
+- Pandas
+- Matplotlib
+- Jupyter Notebook
+- Google Colab
+- Git/GitHub
+
+---
+
+### [Diagnóstico de Marketplace Olist](https://github.com/ghiordanobruno/diagnostico-marketplace-olist) - em desenvolvimento
+
+Projeto de análise de dados com SQL, SQLite e Excel usando dados públicos da Olist.
+
+O objetivo é analisar vendas, atrasos de entrega, satisfação dos clientes e concentração de problemas em sellers e estados. O projeto está em desenvolvimento e atualmente passa pela etapa de importação dos CSVs brutos para SQLite, preparando a base para consultas analíticas e diagnóstico de negócio.
+
+**Perguntas de negócio previstas**
+
+- Quais categorias vendem mais?
+- Quais estados têm mais atrasos?
+- Pedidos atrasados recebem avaliações piores?
+- Quais vendedores concentram mais problemas?
+- Que ações o negócio deveria priorizar?
+
+**Tecnologias utilizadas**
+
+- Python
+- SQL
+- SQLite
+- Excel
+- Git/GitHub
 
 ## Educação
 * **2021 - 2024**
     * Curso Superior - Tecnologia em Análise e Desenvolvimento de Sistemas
-    * Centro Universitário Newton Paiva - Minas Gerais, Brasil 
+    * Centro Universitário Newton Paiva - Minas Gerais, Brasil
+* **2026 - 2027**
+    * Curso Pós Graduação - Ciência de Dados e Big Data
+    * PUC - Minas Gerais, Brasil
 
 ## Educação complementar
 <details>
@@ -72,22 +165,6 @@ Tenho direcionado minha formação para Engenharia e Ciência de Dados, com inte
 
 </details>
 
-## Projetos de portfólio 
-* ### [ETL com pandas e Matplotlib](https://github.com/ghiordanobruno/survey_ETL) (Python, ETL, pandas, Matplotlib)
-    É um projeto em Python que implementa um pipeline de ETL (Extração, Transformação e Carga) aplicado à análise da pesquisa anual de desenvolvedores do Stack Overflow (2018-2024). O objetivo principal é coletar, limpar e organizar um grande conjunto de respostas (mais de 560.000 registros), padronizando os dados para torná-los consistentes e prontos para análise exploratória.
-    O pipeline utiliza Pandas para manipulação e tratamento dos dados e Matplotlib para visualização de tendências, como o uso de linguagens de programação e preferências ao longo dos anos. O projeto inclui gráficos que representam padrões relevantes extraídos do conjunto de dados, demonstrando como diferentes aspectos evoluíram ao longo do tempo. A estrutura e documentação permitem replicar o fluxo de tratamento de dados em notebooks (por exemplo, em Google Colab), e exemplificar boas práticas de ETL e análise com Python.
-
-## Working Setup
-
-        Desktop
-        Motherboard: PRIME A320M-K/BR
-        CPU: Tyzen 5 1600
-        RAM: 16GB (2x8GB) 2666Mhz
-        Graphics: NVIDIA GeForce GTX 1050 Ti
-        Monitor: Generic 59-60Hz
-        Keyboard: Teclado Mecanico Pichau Netuno V2
-        Mouse: Mouse Pichau Netuno V2
-        Headset: Headset Pichau Netuno V2
 </div>
 
 <!--
